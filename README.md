@@ -267,7 +267,7 @@ Issues and PR's welcome. It's best to discuss the design of a potential PR over 
 
 ## Rationale
 
-In his [talk on literate programming](https://www.youtube.com/watch?v=UCEzBNh9ufs), [Sam Ritchie](https://samritchie.io/) says (cleaned up for writing):
+In his [talk](https://www.youtube.com/watch?v=UCEzBNh9ufs) on literate programming, [Sam Ritchie](https://samritchie.io/) says (cleaned up for writing):
 
 > I have this belief that when you pick up a tool the tool is an instantiation of the philosophy the tool builders put into it. A tool has a _should_ about the way you should work. It's saying something to you about how it should be used...
 
