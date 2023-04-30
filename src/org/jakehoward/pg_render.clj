@@ -1,17 +1,6 @@
 (ns org.jakehoward.pg-render
   (:require [clojure.string :as str]))
 
-;; todo - [x] https://www.postgresql.org/docs/15/datatype.html
-;;      - [ ] GitHub Actions build
-;;           - Fail on test failure
-;;           - Build and deploy JAR to clojars/maven/both
-;;      - [ ] Readme
-;;           - Examples
-;;           - Possibly surprising behaviour (%LL:v would render as is, lib gets out of the way)
-;;           - Performance tests
-;;           - Why Pg only
-;;           - Rationale (Sam Ritchie literate programming talk, what's the philosophy)
-
 (def default-escape-tokens {:literal "L"
                             :identifier "I"
                             :string "s"
